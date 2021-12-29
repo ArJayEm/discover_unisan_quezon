@@ -29,9 +29,9 @@ const RESOURCES = {
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "icons/ic_unisan_quezon-192.png": "3f5394e575d3b42294f2c0b8487f9182",
 "icons/ic_unisan_quezon-512.png": "d600d18b3198bec619b657809c42204b",
-"index.html": "6404dedd67c4489c9729a1fb4fa06fdd",
-"/": "6404dedd67c4489c9729a1fb4fa06fdd",
-"main.dart.js": "cb4af031bc35558ad1f3b4ae4695b2ac",
+"index.html": "38ec5bdd0bea99f83dc07ab41cb2cd0d",
+"/": "38ec5bdd0bea99f83dc07ab41cb2cd0d",
+"main.dart.js": "7f74e4ebec1b50f63a960c233ff616b8",
 "manifest.json": "527653e6abe6b55106b8c041dfa3c9cb",
 "playstore.png": "d600d18b3198bec619b657809c42204b",
 "version.json": "875712fa814260b7fccce292685264ca"

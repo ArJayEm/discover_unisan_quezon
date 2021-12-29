@@ -48506,9 +48506,10 @@ J(a,b){var s="Take a tour"
 return A.kG(new A.hg(B.jV,s,null),new A.hy(B.jV,s,null),null)}}
 A.y2.prototype={
 J(a,b){var s="Check them out"
-return A.kG(new A.hg(B.jY,s,null),new A.hy(B.jY,s,null),null)}}
+return A.kG(new A.hg(B.jX,s,null),new A.hy(B.jX,s,null),null)}}
 A.yw.prototype={
-J(a,b){return A.kG(new A.hg(B.jX,"Explore",null),new A.hy(B.jX,"Explore",null),null)}}
+J(a,b){var s="Start exploring"
+return A.kG(new A.hg(B.jY,s,null),new A.hy(B.jY,s,null),null)}}
 A.yK.prototype={
 J(a,b){var s="See plans"
 return A.kG(new A.hg(B.jW,s,null),new A.hy(B.jW,s,null),null)}}
@@ -50701,10 +50702,10 @@ B.wu=new A.lS(B.HO,null,!0,B.j6,null,B.bm,null,B.JO,null)
 B.wv=new A.xD(null)
 B.jT=new A.hh("We are","HIRING","Looking for a job? Check out our list and maybe there's one that fits your skills!",null)
 B.jU=new A.hh("Learn Our","History","Unisan, originally called Kalilayan, is perhaps one of the oldest towns in the Philippines. As early as 1521, the town of Kalilayan was founded by Malayan settlers. All other towns in the country were established not earlier than 1565, when Spain formally occupied the Philippines as a colony.",null)
-B.jV=new A.hh("Explore the","Destinations","Discover historical places or great places to just eat and relax.",null)
+B.jV=new A.hh("Explore lots of","Destinations","Discover historical places or great places to just eat or relax.",null)
 B.jW=new A.hh("Plan your","Iteneraries","We've made some plans ready that you could choose from.",null)
-B.jX=new A.hh("Welcome to","Unisan, Quezon","Whether you're looking for an adventure, time to unwind, or have a great food experience, you can find them here.",null)
-B.jY=new A.hh("Create great","Experiences","Experience great food experience and relaxing vacation spots.",null)
+B.jX=new A.hh("Create great","Experiences","Great food experience and relaxing vacation spots awaits you.",null)
+B.jY=new A.hh("Welcome to","Unisan, Quezon","Whether you're looking for an adventure, time to unwind, or have a great food experience, you can find them here.",null)
 B.Ku=new A.pr(18)
 B.bB=new A.lU(4,"mobile")
 B.dM=new A.lU(5,"tablet")
