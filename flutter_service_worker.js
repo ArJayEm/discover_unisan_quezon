@@ -3,7 +3,13 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "042421c96d8d634c0d58ab8c13949ebd",
+  "android/mipmap-hdpi/ic_unisan_quezon.png": "2ba12d5232331a11dcc962a879aaf27a",
+"android/mipmap-mdpi/ic_unisan_quezon.png": "9272fdee0c59dc749361ca8478378434",
+"android/mipmap-xhdpi/ic_unisan_quezon.png": "183159d4c647e4391012c97d05f26a3b",
+"android/mipmap-xxhdpi/ic_unisan_quezon.png": "7ed71fee5d1da7e342dd166bcb1d2299",
+"android/mipmap-xxxhdpi/ic_unisan_quezon.png": "3f5394e575d3b42294f2c0b8487f9182",
+"appstore.png": "aed35aeae3eb9a969fd4091a3fd46127",
+"assets/AssetManifest.json": "042421c96d8d634c0d58ab8c13949ebd",
 "assets/assets/fonts/OpenSans-ExtraBold.ttf": "fb7e3a294cb07a54605a8bb27f0cd528",
 "assets/assets/fonts/OpenSans-Regular.ttf": "3ed9575dcc488c3e3a5bd66620bdf5a4",
 "assets/assets/icons/unisan_logo.png": "6a2e50bcb13ac60559ff67199d185531",
@@ -15,15 +21,19 @@ const RESOURCES = {
 "canvaskit/canvaskit.wasm": "b179ba02b7a9f61ebc108f82c5a1ecdb",
 "canvaskit/profiling/canvaskit.js": "3783918f48ef691e230156c251169480",
 "canvaskit/profiling/canvaskit.wasm": "6d1b0fc1ec88c3110db88caa3393c580",
-"favicon.png": "5dcef449791fa27946b3d35ad8803796",
+"favicon.png": "2ba12d5232331a11dcc962a879aaf27a",
+"favicon_old.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "fabee9545f94bcb85caff4df68429515",
-"/": "fabee9545f94bcb85caff4df68429515",
+"icons/ic_unisan_quezon-192.png": "3f5394e575d3b42294f2c0b8487f9182",
+"icons/ic_unisan_quezon-512.png": "d600d18b3198bec619b657809c42204b",
+"index.html": "6404dedd67c4489c9729a1fb4fa06fdd",
+"/": "6404dedd67c4489c9729a1fb4fa06fdd",
 "main.dart.js": "cb4af031bc35558ad1f3b4ae4695b2ac",
-"manifest.json": "6b2e5ea9e4ed5fd57436a4fa865c31d8",
+"manifest.json": "527653e6abe6b55106b8c041dfa3c9cb",
+"playstore.png": "d600d18b3198bec619b657809c42204b",
 "version.json": "875712fa814260b7fccce292685264ca"
 };
 
